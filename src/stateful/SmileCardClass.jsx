@@ -35,4 +35,4 @@ increment = () => {
   }
 }
 
-export default SmileCard;
+export default SmileCardClass;
