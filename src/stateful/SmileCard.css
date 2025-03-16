@@ -1,0 +1,20 @@
+.smileUnit{
+    border: 1px solid cyan;
+    padding: 10px;
+    margin-top: 20px;
+}
+.buttonBar{
+    display: flex;
+    gap: 10px;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.hidden{
+    display: none;
+}
+
+.resultBlock{
+    margin-top: 20px;
+}
+
